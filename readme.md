@@ -17,7 +17,7 @@
 
 ---
 
-## ⚡ Stuff I Know
+<h4 align="center">⚡ Stuff I Know</h4>
 
 <p align="center">
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" height="20">
@@ -42,7 +42,7 @@
 
 ---
 
-## 🤔 Stuff To Explore
+<h4 align="center">🤔 Stuff To Explore</h4>
 
 <p align="center">
 <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js" height="20"> 
@@ -60,7 +60,6 @@
 <img src="https://img.shields.io/badge/-Java-E34A86?style=flat-square&logo=java" height="20"> 
 <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" height="20"> 
 <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql" height="20"> 
-<img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" height="20"> 
 <img src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux" height="20"> 
 <img src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql" height="20"> 
 <img src="https://img.shields.io/badge/-Gatsby-663399?style=flat-square&logo=gatsby" height="20"> 
@@ -71,6 +70,7 @@
 <img src="https://img.shields.io/badge/-ReactNative-61DAFB?style=flat-square&logo=react&logoColor=black" height="20"> 
 <img src="https://img.shields.io/badge/-FramerMotion-0055FF?style=flat-square&logo=framer&logoColor=white" height="20">
 <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" height="20">
+<img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" height="20"> 
 <img src="https://img.shields.io/badge/-Dart-000000?style=flat-square&logo=dart" height="20">
 </p>
 <br />
@@ -79,8 +79,8 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=himakhaitan&theme=tokyonight&hide_border=true&fire=DD2727"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=himakhaitan&layout=compact&theme=algolia">
 </p>
 <br/>
 
-> Happily turning coffee into code!✅
+<h6 align="center">Happily turning coffee into code!✅</h6>
+
