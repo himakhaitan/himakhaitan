@@ -17,8 +17,8 @@
 
 ---
 
-<h4 align="center">⚡ Stuff I Know</h4>
-
+<h2 align="center">⚡ Stuff I Know</h2>
+<br/>
 <p align="center">
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" height="20">
 <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" height="20"> 
@@ -42,8 +42,8 @@
 
 ---
 
-<h4 align="center">🤔 Stuff To Explore</h4>
-
+<h2 align="center">🤔 Stuff To Explore</h2>
+<br/>
 <p align="center">
 <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js" height="20"> 
 <img src="https://img.shields.io/badge/-Angular-E10098?style=flat-square&logo=angular" height="20"> 
@@ -80,7 +80,6 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=himakhaitan&theme=tokyonight&hide_border=true&fire=DD2727"/>
 </p>
-<br/>
 
 <h6 align="center">Happily turning coffee into code!✅</h6>
 
