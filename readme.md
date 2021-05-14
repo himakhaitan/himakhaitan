@@ -79,6 +79,7 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=himakhaitan&theme=tokyonight&hide_border=true&fire=DD2727"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=himakhaitan&layout=compact&theme=algolia">
 </p>
 <br/>
 
