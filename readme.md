@@ -36,7 +36,9 @@
 <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" height="25"> 
 <img src="https://img.shields.io/badge/-Canva-20c4cb?style=flat-square&logo=canva&logoColor=white" height="25">
 </p>
-----
+
+---
+
 ## 🤔 Stuff To Explore
 <p align="center">
 <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js" height="25"> 
