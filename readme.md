@@ -16,7 +16,7 @@
 <p align="center">An avid and passionate coder specializing in different languages. I love to build and design websites which the end user would enjoy using while keeping the website performant and the code clean. Up for freelance web development work and collaborating on exciting <b>Open Source & Personal</b> projects.</p>
 
 ## ⚡ Stuff I Know
-
+<p align="center">
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![SASS](https://img.shields.io/badge/-SASS-CC6699?style=flat-square&logo=sass&logoColor=white)
@@ -35,10 +35,10 @@
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/-Canva-20c4cb?style=flat-square&logo=canva&logoColor=white)
-
+</p>
 ----
 ## 🤔 Stuff To Explore
-
+<p align="center">
 ![NextJS](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js)
 ![Angular](https://img.shields.io/badge/-Angular-E10098?style=flat-square&logo=angular)
 ![PHP](https://img.shields.io/badge/-PHP-8993be?style=flat-square&logo=php&logoColor=white)
@@ -66,7 +66,7 @@
 ![Framer](https://img.shields.io/badge/-FramerMotion-0055FF?style=flat-square&logo=framer&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Dart](https://img.shields.io/badge/-Dart-000000?style=flat-square&logo=dart)
-
+</p>
 <br />
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=himakhaitan&theme=tokyonight&hide_border=true&fire=DD2727"/>
