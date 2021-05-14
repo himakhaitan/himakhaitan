@@ -39,33 +39,33 @@
 ----
 ## 🤔 Stuff To Explore
 <p align="center">
-![NextJS](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js)
-![Angular](https://img.shields.io/badge/-Angular-E10098?style=flat-square&logo=angular)
-![PHP](https://img.shields.io/badge/-PHP-8993be?style=flat-square&logo=php&logoColor=white)
-![PHP](https://img.shields.io/badge/-Laravel-b83b5e?style=flat-square&logo=Laravel&logoColor=white)
-![Bulma](https://img.shields.io/badge/-Bulma-00D1B2?style=flat-square&logo=bulma&logoColor=white)
-![Vue](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
-![Material-UI](https://img.shields.io/badge/-MaterialUI-0081CB?style=flat-square&logo=material-ui)
-![Flutter](https://img.shields.io/badge/-Flutter-000000?style=flat-square&logo=flutter)
-![Kotlin](https://img.shields.io/badge/-Kotlin-F7DF1E?style=flat-square&logo=kotlin&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-![Swift](https://img.shields.io/badge/-Swift-f08a5d?style=flat-square&logo=swift&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=Django)
-![Java](https://img.shields.io/badge/-Java-E34A86?style=flat-square&logo=java)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql)
-![Gatsby](https://img.shields.io/badge/-Gatsby-663399?style=flat-square&logo=gatsby)
-![GitHub Actions](https://img.shields.io/badge/-GithubActions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws)
-![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white)
-![React Native](https://img.shields.io/badge/-ReactNative-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Framer](https://img.shields.io/badge/-FramerMotion-0055FF?style=flat-square&logo=framer&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Dart](https://img.shields.io/badge/-Dart-000000?style=flat-square&logo=dart)
+<img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js" height="25"> 
+<img src="https://img.shields.io/badge/-Angular-E10098?style=flat-square&logo=angular" height="25"> 
+<img src="https://img.shields.io/badge/-PHP-8993be?style=flat-square&logo=php&logoColor=white" height="25"> 
+<img src="https://img.shields.io/badge/-Laravel-b83b5e?style=flat-square&logo=Laravel&logoColor=white" height="25"> 
+<img src="https://img.shields.io/badge/-Bulma-00D1B2?style=flat-square&logo=bulma&logoColor=white" height="25"> 
+<img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" height="25"> 
+<img src="https://img.shields.io/badge/-MaterialUI-0081CB?style=flat-square&logo=material-ui" height="25"> 
+<img src="https://img.shields.io/badge/-Flutter-000000?style=flat-square&logo=flutter" height="25"> 
+<img src="https://img.shields.io/badge/-Kotlin-F7DF1E?style=flat-square&logo=kotlin&logoColor=black" height="25"> 
+<img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white" height="25"> 
+<img src="https://img.shields.io/badge/-Swift-f08a5d?style=flat-square&logo=swift&logoColor=white" height="25"> 
+<img src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=Django" height="25"> 
+<img src="https://img.shields.io/badge/-Java-E34A86?style=flat-square&logo=java" height="25"> 
+<img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" height="25"> 
+<img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql" height="25"> 
+<img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" height="25"> 
+<img src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux" height="25"> 
+<img src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql" height="25"> 
+<img src="https://img.shields.io/badge/-Gatsby-663399?style=flat-square&logo=gatsby" height="25"> 
+<img src="https://img.shields.io/badge/-GithubActions-2088FF?style=flat-square&logo=github-actions&logoColor=white" height="25"> 
+<img src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws" height="25"> 
+<img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" height="25"> 
+<img src="https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white" height="25"> 
+<img src="https://img.shields.io/badge/-ReactNative-61DAFB?style=flat-square&logo=react&logoColor=black" height="25"> 
+<img src="https://img.shields.io/badge/-FramerMotion-0055FF?style=flat-square&logo=framer&logoColor=white" height="25">
+<img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" height="25">
+<img src="https://img.shields.io/badge/-Dart-000000?style=flat-square&logo=dart" height="25">
 </p>
 <br />
 <p align="center">
