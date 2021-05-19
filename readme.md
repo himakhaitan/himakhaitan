@@ -1,4 +1,4 @@
-<img src="https://github.com/himakhaitan/himakhaitan/blob/main/home.png">
+<img  src="https://github.com/himakhaitan/himakhaitan/blob/main/home.png">
 
 <h4 align="center">I'm a computer engineering student 💻 from India who loves to code.</h4>
 
