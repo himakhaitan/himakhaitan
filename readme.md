@@ -79,6 +79,7 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=himakhaitan&theme=tokyonight&hide_border=true&fire=DD2727"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=himakhaitan&show_icons=true&hide_border=true&theme=tokyonight&hide_border=true&fire=DD2727"/>
 </p>
 
 <h6 align="center">Happily turning coffee into code!✅</h6>
