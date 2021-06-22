@@ -39,7 +39,7 @@
 <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" height="20"> 
 <img src="https://img.shields.io/badge/-Canva-20c4cb?style=flat-square&logo=canva&logoColor=white" height="20">
 <img src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux" height="20"> 
-<img src="https://img.shields.io/badge/-Angular-E10098?style=flat-square&logo=angular" height="20"> 
+<img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js" height="20"> 
 </p>
 
 ---
@@ -47,6 +47,7 @@
 <h2 align="center">🤔 Stuff To Explore</h2>
 <br/>
 <p align="center">
+<img src="https://img.shields.io/badge/-Angular-E10098?style=flat-square&logo=angular" height="20"> 
 <img src="https://img.shields.io/badge/-PHP-8993be?style=flat-square&logo=php&logoColor=white" height="20"> 
 <img src="https://img.shields.io/badge/-Laravel-b83b5e?style=flat-square&logo=Laravel&logoColor=white" height="20"> 
 <img src="https://img.shields.io/badge/-Bulma-00D1B2?style=flat-square&logo=bulma&logoColor=white" height="20"> 
