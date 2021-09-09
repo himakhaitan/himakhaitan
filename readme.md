@@ -25,6 +25,7 @@
 <img src="https://github.com/himakhaitan/himakhaitan/blob/main/icons/postman.png" height="40">&nbsp; &nbsp; 
 <img src="https://github.com/himakhaitan/himakhaitan/blob/main/icons/react.png" height="40">&nbsp; &nbsp; 
 <img src="https://github.com/himakhaitan/himakhaitan/blob/main/icons/mongo.png" height="40">&nbsp; &nbsp; 
+<br/><br/>
 <img src="https://github.com/himakhaitan/himakhaitan/blob/main/icons/c.png" height="40">&nbsp; &nbsp; 
 <img src="https://github.com/himakhaitan/himakhaitan/blob/main/icons/cpp.png" height="40">&nbsp; &nbsp; 
 <img src="https://github.com/himakhaitan/himakhaitan/blob/main/icons/git.png" height="40">&nbsp; &nbsp; 
