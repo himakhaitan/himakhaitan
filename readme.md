@@ -3,7 +3,7 @@
 <h4 align="center">I'm a CSE geek 💻 from India who loves to code.</h4>
 
 <p align="center">
-  <a href="mailto:himanshukhaitan10@gmail.com" target="_blank"><img height="40" src = "https://github.com/himakhaitan/himakhaitan/blob/main/icons/mail.png"></a>&nbsp; &nbsp;
+  <a href="mailto:himanshukhaitan10@gmail.com" target="_blank"><img height="40" src = "https://github.com/himakhaitan/himakhaitan/blob/main/icons/mail.png"></a>
   <a href="https://www.linkedin.com/in/himanshu-khaitan-431666204/" target="_blank"><img height="40" src = "https://github.com/himakhaitan/himakhaitan/blob/main/icons/linkedin.png"></a>&nbsp;&nbsp;<a href="https://www.instagram.com/hima_khaitan/" target="_blank"><img height="40" src = "https://github.com/himakhaitan/himakhaitan/blob/main/icons/insta.png"></a>&nbsp;&nbsp;
   <a href="https://dev.to/hima_khaitan" target="_blank"><img height="40" src = "https://github.com/himakhaitan/himakhaitan/blob/main/icons/dev.png"></a>
 </p>
@@ -37,8 +37,6 @@
 <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js" height="20"> 
 </p>
 
----
-
 <br />
 
 ---
@@ -46,6 +44,7 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=himakhaitan&theme=tokyonight&hide_border=true&fire=DD2727"/>
     <img src="https://github-readme-stats.vercel.app/api?username=himakhaitan&show_icons=true&hide_border=true&theme=tokyonight&hide_border=true&fire=DD2727"/>
+
 </p>
 
-<h6 align="center">Happily turning coffee into code!✅</h6>
+<h4 align="center">Happily turning coffee into code!✅</h4>
