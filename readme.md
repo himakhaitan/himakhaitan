@@ -15,28 +15,28 @@
 <h2 align="center">⚡ Stuff I Know</h2>
 <br/>
 <p align="center">
-<img src="https://github.com/himakhaitan/himakhaitan/blob/main/icons/html5.png" height="20">
-<img src="https://github.com/himakhaitan/himakhaitan/blob/main/icons/css.png" height="20"> 
-<img src="https://github.com/himakhaitan/himakhaitan/blob/main/icons/sass.png" height="20"> 
-<img src="https://github.com/himakhaitan/himakhaitan/blob/main/icons/bootstrap.png" height="20"> 
-<img src="https://github.com/himakhaitan/himakhaitan/blob/main/icons/js.png" height="20"> 
-<img src="https://github.com/himakhaitan/himakhaitan/blob/main/icons/node.png" height="20"> 
-<img src="https://github.com/himakhaitan/himakhaitan/blob/main/icons/expressjs.png" height="20"> 
-<img src="https://github.com/himakhaitan/himakhaitan/blob/main/icons/postman.png" height="20"> 
-<img src="https://github.com/himakhaitan/himakhaitan/blob/main/icons/react.png" height="20"> 
-<img src="https://github.com/himakhaitan/himakhaitan/blob/main/icons/mongo.png" height="20"> 
-<img src="https://github.com/himakhaitan/himakhaitan/blob/main/icons/c.png" height="20"> 
-<img src="https://github.com/himakhaitan/himakhaitan/blob/main/icons/cpp.png" height="20"> 
-<img src="https://github.com/himakhaitan/himakhaitan/blob/main/icons/git.png" height="20"> 
-<img src="https://github.com/himakhaitan/himakhaitan/blob/main/icons/github.png" height="20"> 
-<img src="https://github.com/himakhaitan/himakhaitan/blob/main/icons/linux.png" height="20"> 
-<img src="https://github.com/himakhaitan/himakhaitan/blob/main/icons/heroku.png" height="20"> 
-<img src="https://github.com/himakhaitan/himakhaitan/blob/main/icons/figma.png" height="20"> 
-<img src="https://github.com/himakhaitan/himakhaitan/blob/main/icons/canva.png" height="20">
-<img src="https://github.com/himakhaitan/himakhaitan/blob/main/icons/redux.png" height="20"> 
-<img src="https://github.com/himakhaitan/himakhaitan/blob/main/icons/next-js.png" height="20"> 
-<img src="https://github.com/himakhaitan/himakhaitan/blob/main/icons/typescript.png" height="20"> 
-<img src="https://github.com/himakhaitan/himakhaitan/blob/main/icons/wordpress.png" height="20"> 
+<img src="https://github.com/himakhaitan/himakhaitan/blob/main/icons/html5.png" height="35">
+<img src="https://github.com/himakhaitan/himakhaitan/blob/main/icons/css.png" height="35"> 
+<img src="https://github.com/himakhaitan/himakhaitan/blob/main/icons/sass.png" height="35"> 
+<img src="https://github.com/himakhaitan/himakhaitan/blob/main/icons/bootstrap.png" height="35"> 
+<img src="https://github.com/himakhaitan/himakhaitan/blob/main/icons/js.png" height="35"> 
+<img src="https://github.com/himakhaitan/himakhaitan/blob/main/icons/node.png" height="35"> 
+<img src="https://github.com/himakhaitan/himakhaitan/blob/main/icons/expressjs.png" height="35"> 
+<img src="https://github.com/himakhaitan/himakhaitan/blob/main/icons/postman.png" height="35"> 
+<img src="https://github.com/himakhaitan/himakhaitan/blob/main/icons/react.png" height="35"> 
+<img src="https://github.com/himakhaitan/himakhaitan/blob/main/icons/mongo.png" height="35"> 
+<img src="https://github.com/himakhaitan/himakhaitan/blob/main/icons/c.png" height="35"> 
+<img src="https://github.com/himakhaitan/himakhaitan/blob/main/icons/cpp.png" height="35"> 
+<img src="https://github.com/himakhaitan/himakhaitan/blob/main/icons/git.png" height="35"> 
+<img src="https://github.com/himakhaitan/himakhaitan/blob/main/icons/github.png" height="35"> 
+<img src="https://github.com/himakhaitan/himakhaitan/blob/main/icons/linux.png" height="35"> 
+<img src="https://github.com/himakhaitan/himakhaitan/blob/main/icons/heroku.png" height="35"> 
+<img src="https://github.com/himakhaitan/himakhaitan/blob/main/icons/figma.png" height="35"> 
+<img src="https://github.com/himakhaitan/himakhaitan/blob/main/icons/canva.png" height="35">
+<img src="https://github.com/himakhaitan/himakhaitan/blob/main/icons/redux.png" height="35"> 
+<img src="https://github.com/himakhaitan/himakhaitan/blob/main/icons/next-js.png" height="35"> 
+<img src="https://github.com/himakhaitan/himakhaitan/blob/main/icons/typescript.png" height="35"> 
+<img src="https://github.com/himakhaitan/himakhaitan/blob/main/icons/wordpress.png" height="35"> 
 </p>
 
 <br />
