@@ -15,26 +15,28 @@
 <h2 align="center">⚡ Stuff I Know</h2>
 <br/>
 <p align="center">
-<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" height="20">
-<img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" height="20"> 
-<img src="https://img.shields.io/badge/-SASS-CC6699?style=flat-square&logo=sass&logoColor=white" height="20"> 
-<img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap" height="20"> 
-<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" height="20"> 
-<img src="https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white" height="20"> 
-<img src="https://img.shields.io/badge/-Express-black?style=flat-square&logo=express&logoColor=white" height="20"> 
-<img src="https://img.shields.io/badge/-Postman-F24E1E?style=flat-square&logo=Postman&logoColor=white" height="20"> 
-<img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" height="20"> 
-<img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" height="20"> 
-<img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c" height="20"> 
-<img src="https://img.shields.io/badge/-C-F7DF1E?style=flat-square&logo=C&logoColor=black" height="20"> 
-<img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" height="20"> 
-<img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" height="20"> 
-<img src="https://img.shields.io/badge/-Linux-black?style=flat-square&logo=Linux" height="20"> 
-<img src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku" height="20"> 
-<img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" height="20"> 
-<img src="https://img.shields.io/badge/-Canva-20c4cb?style=flat-square&logo=canva&logoColor=white" height="20">
-<img src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux" height="20"> 
-<img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js" height="20"> 
+<img src="https://github.com/himakhaitan/himakhaitan/blob/main/icons/html5.png" height="20">
+<img src="https://github.com/himakhaitan/himakhaitan/blob/main/icons/css.png" height="20"> 
+<img src="https://github.com/himakhaitan/himakhaitan/blob/main/icons/sass.png" height="20"> 
+<img src="https://github.com/himakhaitan/himakhaitan/blob/main/icons/bootstrap.png" height="20"> 
+<img src="https://github.com/himakhaitan/himakhaitan/blob/main/icons/js.png" height="20"> 
+<img src="https://github.com/himakhaitan/himakhaitan/blob/main/icons/node.png" height="20"> 
+<img src="https://github.com/himakhaitan/himakhaitan/blob/main/icons/expressjs.png" height="20"> 
+<img src="https://github.com/himakhaitan/himakhaitan/blob/main/icons/postman.png" height="20"> 
+<img src="https://github.com/himakhaitan/himakhaitan/blob/main/icons/react.png" height="20"> 
+<img src="https://github.com/himakhaitan/himakhaitan/blob/main/icons/mongo.png" height="20"> 
+<img src="https://github.com/himakhaitan/himakhaitan/blob/main/icons/c.png" height="20"> 
+<img src="https://github.com/himakhaitan/himakhaitan/blob/main/icons/cpp.png" height="20"> 
+<img src="https://github.com/himakhaitan/himakhaitan/blob/main/icons/git.png" height="20"> 
+<img src="https://github.com/himakhaitan/himakhaitan/blob/main/icons/github.png" height="20"> 
+<img src="https://github.com/himakhaitan/himakhaitan/blob/main/icons/linux.png" height="20"> 
+<img src="https://github.com/himakhaitan/himakhaitan/blob/main/icons/heroku.png" height="20"> 
+<img src="https://github.com/himakhaitan/himakhaitan/blob/main/icons/figma.png" height="20"> 
+<img src="https://github.com/himakhaitan/himakhaitan/blob/main/icons/canva.png" height="20">
+<img src="https://github.com/himakhaitan/himakhaitan/blob/main/icons/redux.png" height="20"> 
+<img src="https://github.com/himakhaitan/himakhaitan/blob/main/icons/next-js.png" height="20"> 
+<img src="https://github.com/himakhaitan/himakhaitan/blob/main/icons/typescript.png" height="20"> 
+<img src="https://github.com/himakhaitan/himakhaitan/blob/main/icons/wordpress.png" height="20"> 
 </p>
 
 <br />
