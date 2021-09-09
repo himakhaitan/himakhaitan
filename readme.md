@@ -3,10 +3,10 @@
 <h4 align="center">I'm a CSE geek 💻 from India who loves to code.</h4>
 
 <p align="center">
-  <a href="mailto:himanshukhaitan10@gmail.com" target="_blank"><img height="25" src = "https://github.com/himakhaitan/himakhaitan/blob/main/icons/mail.png"></a>
-  <a href="https://www.linkedin.com/in/himanshu-khaitan-431666204/" target="_blank"><img height="25" src = "https://github.com/himakhaitan/himakhaitan/blob/main/icons/linkedin.png"></a>
-  <a href="https://dev.to/hima_khaitan" target="_blank"><img height="27" src = "https://github.com/himakhaitan/himakhaitan/blob/main/icons/dev.png"></a>
-  <a href="https://www.instagram.com/hima_khaitan/" target="_blank"><img height="25" src = "https://github.com/himakhaitan/himakhaitan/blob/main/icons/insta.png"></a>
+  <a href="mailto:himanshukhaitan10@gmail.com" target="_blank"><img height="40" src = "https://github.com/himakhaitan/himakhaitan/blob/main/icons/mail.png"></a>
+  <a href="https://www.linkedin.com/in/himanshu-khaitan-431666204/" target="_blank"><img height="40" src = "https://github.com/himakhaitan/himakhaitan/blob/main/icons/linkedin.png"></a>
+  <a href="https://dev.to/hima_khaitan" target="_blank"><img height="40" src = "https://github.com/himakhaitan/himakhaitan/blob/main/icons/dev.png"></a>
+  <a href="https://www.instagram.com/hima_khaitan/" target="_blank"><img height="40" src = "https://github.com/himakhaitan/himakhaitan/blob/main/icons/insta.png"></a>
 </p>
 
 ---
