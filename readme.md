@@ -1,11 +1,15 @@
 <img  src="https://github.com/himakhaitan/himakhaitan/blob/main/1.jpg">
 
+<p align="center">
+
 [![GitHub himakhaitan](https://img.shields.io/github/followers/himakhaitan?label=follow&style=social)](https://github.com/himakhaitan)
 [![Linkedin: Himanshu Khaitan](https://img.shields.io/badge/-Himanshu%20Khaitan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/himakhaitan/)](https://www.linkedin.com/in/himakhaitan/)
 [![Twitter: Himanshu Khaitan](https://img.shields.io/twitter/follow/HimanshuKhaita4?style=social)](https://twitter.com/HimanshuKhaita4)
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=himakhaitan&left_color=gray&right_color=blue)
 
-<h4 align="center">I write code, build communities and love to interact with people.</h4>
+</p>
+
+<h4 align="center">I write code, build communities and love to interact with people around.</h4>
 
 <p align="center">
   <a href="mailto:himanshukhaitan108@gmail.com" target="_blank"><img height="40" src = "https://github.com/himakhaitan/himakhaitan/blob/main/icons/mail.png"></a>
@@ -14,6 +18,10 @@
 </p>
 
 <p align="center">An avid and passionate coder specializing in different languages. I love to build and design websites which the end user would enjoy using while keeping the website performant and the code clean. Up for freelance web development work and collaborating on exciting <b>Open Source & Personal</b> projects.</p>
+
+<p align="center">
+Currently I am learning advanced concepts of Typescript and getting hands dirty in Competitive Programming.
+</p>
 
 ---
 
