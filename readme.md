@@ -55,5 +55,9 @@ Currently I am learning advanced concepts of Typescript and getting hands dirty 
     <img src="https://github-readme-stats.vercel.app/api?username=himakhaitan&show_icons=true&hide_border=true&theme=tokyonight&hide_border=true&fire=DD2727"/>
 
 </p>
+<h3 align="center">- Profile Visits -</h3>
+<p align="center"> 
+  <img src="https://profile-counter.glitch.me/himakhaitan/count.svg">
+</p>
 
 <h4 align="center">Happily turning coffee into code!✅</h4>
