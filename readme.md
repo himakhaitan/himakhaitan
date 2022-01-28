@@ -16,7 +16,6 @@ Currently I am learning advanced concepts of Typescript and getting hands dirty 
 </p>
 
 <h2 align="center">⚡ Stuff I Know</h2>
-<br/>
 <p align="center">
 <img src="https://github.com/himakhaitan/himakhaitan/blob/main/icons/html5.png" height="40">&nbsp; &nbsp;&nbsp; &nbsp;
 <img src="https://github.com/himakhaitan/himakhaitan/blob/main/icons/css.png" height="40">&nbsp; &nbsp; 
