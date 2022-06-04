@@ -4,9 +4,9 @@
 
 <p align="center">
   <a href="mailto:himanshukhaitan108@gmail.com" target="_blank"><img height="40" src = "https://github.com/himakhaitan/himakhaitan/blob/main/icons/mail.png"></a>
-  <a href="https://www.linkedin.com/in/himanshu-khaitan-431666204/" target="_blank"><img height="40" src = "https://github.com/himakhaitan/himakhaitan/blob/main/icons/linkedin.png"></a>&nbsp;&nbsp;<a href="https://himakhaitan.medium.com/" target="_blank"><img height="40" src = "https://github.com/himakhaitan/himakhaitan/blob/main/icons/medium.png"></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/himakhaitan" target="_blank"><img height="40" src = "https://github.com/himakhaitan/himakhaitan/blob/main/icons/linkedin.png"></a>&nbsp;&nbsp;<a href="https://himakhaitan.medium.com/" target="_blank"><img height="40" src = "https://github.com/himakhaitan/himakhaitan/blob/main/icons/medium.png"></a>&nbsp;&nbsp;
   <a href="https://twitter.com/hima_khaitan" target="_blank"><img height="40" src = "https://github.com/himakhaitan/himakhaitan/blob/main/icons/twitter.png"></a>&nbsp;&nbsp;
-  <a href="https://discord.gg/246v9MajFQ" target="_blank"><img height="40" src = "https://github.com/himakhaitan/himakhaitan/blob/main/icons/discord.png"></a>&nbsp;&nbsp;<a href="https://www.instagram.com/himakhaitan/" target="_blank"><img height="40" src = "https://github.com/himakhaitan/himakhaitan/blob/main/icons/insta.png"></a>&nbsp;&nbsp;<a href="https://dev.to/hima_khaitan" target="_blank"><img height="40" src = "https://github.com/himakhaitan/himakhaitan/blob/main/icons/dev.png"></a>
+  <a href="https://www.instagram.com/himakhaitan/" target="_blank"><img height="40" src = "https://github.com/himakhaitan/himakhaitan/blob/main/icons/insta.png"></a>&nbsp;&nbsp;<a href="https://dev.to/hima_khaitan" target="_blank"><img height="40" src = "https://github.com/himakhaitan/himakhaitan/blob/main/icons/dev.png"></a>
 </p>
 
 <p align="center">An avid and passionate coder specializing in different languages. I love to build and design websites which the end user would enjoy using while keeping the website performant and the code clean. Up for freelance web development work, social media managment and collaborating on exciting <b>Open Source & Personal</b> projects.</p>
