@@ -34,7 +34,7 @@ Currently I am learning advanced concepts of Typescript and getting hands dirty 
 <img src="https://github.com/himakhaitan/himakhaitan/blob/main/icons/github.png" height="40">&nbsp; &nbsp; 
 <img src="https://github.com/himakhaitan/himakhaitan/blob/main/icons/linux.png" height="40">&nbsp; &nbsp; 
 <img src="https://github.com/himakhaitan/himakhaitan/blob/main/icons/heroku.png" height="40">&nbsp; &nbsp; 
-
+<img src="https://github.com/himakhaitan/himakhaitan/blob/main/icons/illustrator.png" height="40">&nbsp; &nbsp; 
 <img src="https://github.com/himakhaitan/himakhaitan/blob/main/icons/figma.png" height="40">&nbsp; &nbsp; 
 <img src="https://github.com/himakhaitan/himakhaitan/blob/main/icons/postgresql.png" height="40">&nbsp; &nbsp; 
 <img src="https://github.com/himakhaitan/himakhaitan/blob/main/icons/canva.png" height="40">&nbsp; &nbsp;
@@ -46,7 +46,6 @@ Currently I am learning advanced concepts of Typescript and getting hands dirty 
 <img src="https://github.com/himakhaitan/himakhaitan/blob/main/icons/dart.png" height="40">&nbsp; &nbsp; 
 <img src="https://github.com/himakhaitan/himakhaitan/blob/main/icons/flutter.png" height="40">&nbsp; &nbsp; 
 <img src="https://github.com/himakhaitan/himakhaitan/blob/main/icons/bloc.svg" height="40">&nbsp; &nbsp; 
-<img src="https://github.com/himakhaitan/himakhaitan/blob/main/icons/illustrator.png" height="40">&nbsp; &nbsp; 
 </p>
 
 <br />
