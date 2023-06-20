@@ -40,7 +40,7 @@ Currently I am learning advanced concepts of Typescript and getting hands dirty 
 <img src="https://github.com/himakhaitan/himakhaitan/blob/main/icons/redux.png" height="40">&nbsp; &nbsp; 
 <img src="https://github.com/himakhaitan/himakhaitan/blob/main/icons/next-js.png" height="40">&nbsp; &nbsp; 
 <img src="https://github.com/himakhaitan/himakhaitan/blob/main/icons/typescript.png" height="40">&nbsp; &nbsp; 
-<img src="https://github.com/himakhaitan/himakhaitan/blob/main/icons/wordpress.png" height="50">&nbsp;
+<img src="https://github.com/himakhaitan/himakhaitan/blob/main/icons/wordpress.png" height="50">&nbsp;<br/><br/>
 <img src="https://github.com/himakhaitan/himakhaitan/blob/main/icons/python.png" height="40">&nbsp; &nbsp; 
 <img src="https://github.com/himakhaitan/himakhaitan/blob/main/icons/dart.png" height="40">&nbsp; &nbsp; 
 <img src="https://github.com/himakhaitan/himakhaitan/blob/main/icons/flutter.png" height="40">&nbsp; &nbsp; 
