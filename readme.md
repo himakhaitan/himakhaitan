@@ -1,4 +1,4 @@
-<img  src="https://github.com/himakhaitan/himakhaitan/blob/main/1.jpg">
+<img  src="https://github.com/himakhaitan/himakhaitan/blob/main/Banner.png">
 
 <h4 align="center">I write code, build communities and love to interact with people around.</h4>
 
@@ -34,13 +34,17 @@ Currently I am learning advanced concepts of Typescript and getting hands dirty 
 <img src="https://github.com/himakhaitan/himakhaitan/blob/main/icons/github.png" height="40">&nbsp; &nbsp; 
 <img src="https://github.com/himakhaitan/himakhaitan/blob/main/icons/linux.png" height="40">&nbsp; &nbsp; 
 <img src="https://github.com/himakhaitan/himakhaitan/blob/main/icons/heroku.png" height="40">&nbsp; &nbsp; 
-<!-- <img src="https://github.com/himakhaitan/himakhaitan/blob/main/icons/figma.png" height="40">&nbsp; &nbsp;  -->
+<img src="https://github.com/himakhaitan/himakhaitan/blob/main/icons/figma.png" height="40">&nbsp; &nbsp; 
+<img src="https://github.com/himakhaitan/himakhaitan/blob/main/icons/postgres.png" height="60">&nbsp; &nbsp; 
 <img src="https://github.com/himakhaitan/himakhaitan/blob/main/icons/canva.png" height="40">&nbsp; &nbsp;
 <img src="https://github.com/himakhaitan/himakhaitan/blob/main/icons/redux.png" height="40">&nbsp; &nbsp; 
 <img src="https://github.com/himakhaitan/himakhaitan/blob/main/icons/next-js.png" height="40">&nbsp; &nbsp; 
 <img src="https://github.com/himakhaitan/himakhaitan/blob/main/icons/typescript.png" height="40">&nbsp; &nbsp; 
 <img src="https://github.com/himakhaitan/himakhaitan/blob/main/icons/wordpress.png" height="50">&nbsp;
-<img src="https://github.com/himakhaitan/himakhaitan/blob/main/icons/solidity.png" height="60">&nbsp; &nbsp; 
+<img src="https://github.com/himakhaitan/himakhaitan/blob/main/icons/python.png" height="60">&nbsp; &nbsp; 
+<img src="https://github.com/himakhaitan/himakhaitan/blob/main/icons/dart.png" height="60">&nbsp; &nbsp; 
+<img src="https://github.com/himakhaitan/himakhaitan/blob/main/icons/flutter.png" height="60">&nbsp; &nbsp; 
+<img src="https://github.com/himakhaitan/himakhaitan/blob/main/icons/bloc.svg" height="60">&nbsp; &nbsp; 
 </p>
 
 <br />
