@@ -1,6 +1,6 @@
 <img  src="https://github.com/himakhaitan/himakhaitan/blob/main/Banner.png">
 
-<h4 align="center">I write code, build communities and love to interact with people around.</h4>
+<h4 align="center">I write code, build communities, and unravel data mysteries.</h4>
 
 <p align="center">
   <a href="mailto:himanshukhaitan108@gmail.com" target="_blank"><img height="40" src = "https://github.com/himakhaitan/himakhaitan/blob/main/icons/mail.png"></a>
@@ -9,10 +9,10 @@
   <a href="https://www.instagram.com/hima_khaitan/" target="_blank"><img height="40" src = "https://github.com/himakhaitan/himakhaitan/blob/main/icons/insta.png"></a>
 </p>
 
-<p align="center">An avid and passionate coder specializing in different languages. I love to build and design websites that the end user would enjoy while keeping the website performant and the code clean. Up for freelance web development work, social media management, and collaborating on exciting <b>Open Source & Personal</b> projects.</p>
+<p align="center">Who is Himanshu Khaitan ❓</p>
 
 <p align="center">
-Currently, I am learning advanced concepts of Typescript and getting my hands dirty in Data Analytics.
+🚀 Hey there, I'm Himanshu – a budding Data Analyst and a freelance Software Developer trying to make lives easier through code. I am currently building Karmic Crew - A platform for beginners. I'm all ears for discussions and casual chats. Let's connect and exchange ideas!
 </p>
 
 <h2 align="center">⚡ Stuff I Know</h2>
@@ -33,7 +33,6 @@ Currently, I am learning advanced concepts of Typescript and getting my hands di
 <img src="https://github.com/himakhaitan/himakhaitan/blob/main/icons/git.png" height="40">&nbsp; &nbsp; 
 <img src="https://github.com/himakhaitan/himakhaitan/blob/main/icons/github.png" height="40">&nbsp; &nbsp; 
 <img src="https://github.com/himakhaitan/himakhaitan/blob/main/icons/linux.png" height="40">&nbsp; &nbsp; 
-<img src="https://github.com/himakhaitan/himakhaitan/blob/main/icons/heroku.png" height="40">&nbsp; &nbsp; 
 <img src="https://github.com/himakhaitan/himakhaitan/blob/main/icons/illustrator.png" height="40">&nbsp; &nbsp; 
 <img src="https://github.com/himakhaitan/himakhaitan/blob/main/icons/figma.png" height="40">&nbsp; &nbsp; 
 <img src="https://github.com/himakhaitan/himakhaitan/blob/main/icons/postgresql.png" height="40">&nbsp; &nbsp; 
