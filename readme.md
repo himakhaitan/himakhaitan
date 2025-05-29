@@ -1,6 +1,6 @@
 <img  src="https://github.com/himakhaitan/himakhaitan/blob/main/Banner.png">
 
-<h4 align="center">I write code, build communities, and unravel data mysteries.</h4>
+<h4 align="center">I write code, support bold ideas, and explore smarter ways to grow.</h4>
 
 <p align="center">
   <a href="mailto:himanshukhaitan108@gmail.com" target="_blank"><img height="40" src = "https://github.com/himakhaitan/himakhaitan/blob/main/icons/mail.png"></a>
@@ -12,7 +12,11 @@
 <p align="center">Who is Himanshu Khaitan ❓</p>
 
 <p align="center">
-🚀 Hey there, I'm Himanshu – a budding Data Analyst and a freelance Software Developer trying to make lives easier through code. I am currently building Karmic Crew - A platform for beginners. I'm all ears for discussions and casual chats. Let's connect and exchange ideas!
+🚀 Hey there, I'm Himanshu – a Software Engineer with a deep interest in finance and the startup ecosystem.
+
+🔍 I’m passionate about solving complex engineering problems and building scalable software solutions that drive real-world impact.
+
+My curiosity in Software Engineering knows no bounds. I’m constantly exploring new technologies, refining system design skills, and staying updated with industry trends. From writing clean, efficient code to architecting resilient systems, I believe growth comes from continuous learning and challenging the status quo. I'm all ears for discussions and casual chats. Let's connect and exchange ideas!
 </p>
 
 <h2 align="center">⚡ Stuff I Know</h2>
